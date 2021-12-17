@@ -1,2 +1,2 @@
 # Facebook-Login-Page
-Facebook login Page using HTML and CSS.
+mini project based in Facebook login Page using HTML and CSS.
